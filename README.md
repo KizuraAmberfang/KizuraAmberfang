@@ -14,8 +14,6 @@
 
 [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/gdi-lore/ft_server)](https://github.com/JaeSeoKim/badge42) FT_SERVER
 
-[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/gdi-lore/miniRT)](https://github.com/JaeSeoKim/badge42) MINIRT
-
 [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/gdi-lore/Exam%20Rank%2003)](https://github.com/JaeSeoKim/badge42) EXAM RANK 03
 
 [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/gdi-lore/ft_services)](https://github.com/JaeSeoKim/badge42) FT_SERVICES
@@ -29,6 +27,8 @@
 [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/gdi-lore/Philosophers)](https://github.com/JaeSeoKim/badge42) PHILOSOPHERS
 
 [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/gdi-lore/Exam%20Rank%2004)](https://github.com/JaeSeoKim/badge42) EXAM RANK 04
+
+[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/gdi-lore/miniRT)](https://github.com/JaeSeoKim/badge42) MINIRT
 
 [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/gdi-lore/Exam%20Rank%2005)](https://github.com/JaeSeoKim/badge42) EXAM RANK 05
 
