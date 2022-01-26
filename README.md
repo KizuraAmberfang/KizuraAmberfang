@@ -39,3 +39,6 @@
 [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/gdi-lore/Exam%20Rank%2006)](https://github.com/JaeSeoKim/badge42) EXAM RANK 06
 
 [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/gdi-lore/ft_transcendence)](https://github.com/JaeSeoKim/badge42) FT_TRANSCENDENCE
+
+[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/gdi-lore/ft_linear_regression)](https://github.com/JaeSeoKim/badge42) FT_LINEAR_REGRESSION
+
