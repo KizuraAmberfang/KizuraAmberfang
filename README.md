@@ -11,3 +11,4 @@ Exam Rank 06: [![gdi-lore's 42 Exam Rank 06 Score](https://badge42.vercel.app/ap
 
 ft_linear_regression: [![gdi-lore's 42 ft_linear_regression Score](https://badge42.vercel.app/api/v2/cl2vovugg004509jpn9rzrjti/project/2465967)](https://github.com/JaeSeoKim/badge42)
 
+dslr: [![gdi-lore's 42 dslr Score](https://badge42.vercel.app/api/v2/cl2vovugg004509jpn9rzrjti/project/2636416)](https://github.com/JaeSeoKim/badge42)
